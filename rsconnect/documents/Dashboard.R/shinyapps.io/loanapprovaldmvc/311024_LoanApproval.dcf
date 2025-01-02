@@ -1,0 +1,12 @@
+name: 311024_LoanApproval
+title: 311024_LoanApproval
+username: loanapprovaldmvc
+account: loanapprovaldmvc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13622313
+bundleId: 9588576
+url: https://loanapprovaldmvc.shinyapps.io/311024_LoanApproval/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
